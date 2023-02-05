@@ -1,0 +1,33 @@
+{
+	"name": "neosolarized-theme",
+	"displayName": "NeoSolarized Theme",
+	"publisher": "JohnSchlesinger",
+	"repository": "https://github.com/Jschles1/neosolarized-theme",
+	"description": "",
+	"version": "0.0.8",
+	"engines": {
+		"vscode": "^1.68.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NeoSolarized Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NeoSolarized Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5b1938c8-c900-4bde-9acf-69af4c07d4b6",
+		"publisherId": "ff08a1e7-0861-4437-896f-3d0633959da6",
+		"publisherDisplayName": "John Schlesinger",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1671470943625
+	}
+}
