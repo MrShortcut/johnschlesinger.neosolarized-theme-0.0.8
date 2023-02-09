@@ -259,8 +259,8 @@
 				"support.class.component"
 			],
 			"settings":{
-				"foreground": "#e2ad4a",
-				
+				"foreground": "#ff414b",
+				// "foreground": "#e2ad4a",
 			}
 		},
 		{
@@ -879,7 +879,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				// "foreground": "#546E7A"
+				"foreground": "#546e7a7c"
 			}
 		},
 	]
